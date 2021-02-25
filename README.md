@@ -22,7 +22,7 @@ yarn build
 
 Screenshoot
 
-![](https://i.postimg.cc/SR9RdBMN/appiness-1.gif)
+![](https://i.postimg.cc/VvHdg8D1/appiness-2.png)
 
+![](https://i.postimg.cc/nLYr5703/appiness-1.png)
 
-![alt text](https://i.postimg.cc/HLYZbHyH/appiness.png)
