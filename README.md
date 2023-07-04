@@ -1,6 +1,3 @@
-# appiness
-
-#url https://appiness-purnima.herokuapp.com/
 
 ## Project setup
 ```
